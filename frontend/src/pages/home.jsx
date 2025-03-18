@@ -26,8 +26,7 @@ const Home = () => {
   }, [fetchProducts]);
 
   return (
-    <Container
-    py={12}>
+    <Container py={12}>
       <VStack gap={8}>
         <Text
           display="flex"
@@ -41,7 +40,7 @@ const Home = () => {
           <IoIosRocket />
         </Text>
 
-        <SimpleGrid columns={3} gap={6}>
+        <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} gap={6}>
           {products.map((product, index) => (
             <ProductCard product={product} key={index} />
           ))}

@@ -6,7 +6,6 @@ This project is for learning and gaining hands-on experience in building a simpl
 
 ## 🛠 Features
 
-✅ Add new products
 - Add new products
 - View product details
 - Update product information
