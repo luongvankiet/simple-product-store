@@ -4,26 +4,21 @@
 
 This project is for learning and gaining hands-on experience in building a simple product store application. It focuses on implementing core CRUD (Create, Read, Update, Delete) operations for managing products.
 
-===
-
 ## 🛠 Features
 
 ✅ Add new products
-✅ View product details
-✅ Update product information
-✅ Delete products
-✅ Simple and user-friendly interface
-
-===
+- Add new products
+- View product details
+- Update product information
+- Delete products
+- Simple and user-friendly interface
 
 ## 🔧 Technologies Used
 
-    •	Backend: [Laravel / Node.js / Django] (Choose one)
-    •	Frontend: [React.js / Vue.js / Angular]
-    •	Database: [MySQL / PostgreSQL / Firebase]
-    •	Others: Tailwind CSS, Bootstrap, REST API
-
-===
+    •	Backend: Node.js
+    •	Frontend: React.js
+    •	Database: MongoDB
+    •	Others: Chakra UI
 
 ## 📂 Installation & Setup
 
@@ -45,8 +40,6 @@ npm install  # or yarn install
 ```
 npm start  # or yarn start
 ```
-
-===
 
 ## 🎯 Usage
 
